@@ -1,0 +1,15 @@
+The amdkfd kernel references:
+
+include/kcl
+include/uapi/linux/kfd_ioctl.h
+include/drm/amd_rdma.h
+include/linux/amd-iommu.h
+include/linux/pci.h
+include/linux/slab.h
+include/linux/slab_def.h
+include/linux/highmem.h
+include/linux/fence.h
+
+The amdkcl kernel module references:
+
+include/kcl
